@@ -2,6 +2,10 @@
 
 This project was generated using [Angular CLI](https://github.com/angular/angular-cli) version 19.1.6.
 
+![screenshot-1739345114218](https://github.com/user-attachments/assets/85671108-f2bc-411e-8bcf-184e5464de5c)
+![screenshot-1739345203269](https://github.com/user-attachments/assets/f1a6cc34-8813-416f-99d4-e114cb1eb001)
+
+
 ## Development server
 
 To start a local development server, run:
@@ -57,6 +61,4 @@ Angular CLI does not come with an end-to-end testing framework by default. You c
 ## Additional Resources
 
 For more information on using the Angular CLI, including detailed command references, visit the [Angular CLI Overview and Command Reference](https://angular.dev/tools/cli) page.
-![screenshot-1739345114218](https://github.com/user-attachments/assets/85671108-f2bc-411e-8bcf-184e5464de5c)
-![screenshot-1739345203269](https://github.com/user-attachments/assets/f1a6cc34-8813-416f-99d4-e114cb1eb001)
 
